@@ -12,7 +12,10 @@ iOS-Project-Image-Extract
 
 # Usage
 ----
-![demo](https://github.com/KrisMarko/extract_project_image/md_resource/image.png)
+![demo](https://raw.githubusercontent.com/KrisMarko/extract_project_image/master/md_resource/image.png)
+
+input path：项目文件夹
+output path：图片提取后输出的文件夹
 
 ## License
 The code is released under MIT license and free to use.
